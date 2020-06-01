@@ -1,4 +1,4 @@
-https://app.circleci.com/pipelines/github/TimGodonu/DevOps-Project
+[![TimGodonu](https://circleci.com/gh/TimGodonu/DevOps-Project.svg?style=svg)](https://circleci.com/gh/TimGodonu/DevOps-Project)
 
 ## Project Overview
 
